@@ -1,16 +1,20 @@
-## Hi there 👋
+Ciao! I'm Antonio Sanz 
 
-<!--
-**AntonioSanzDB/AntonioSanzDB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Automotive Engineering Student at Politecnico di Torino Aspiring Aerodynamics & Vehicle Dynamics Engineer
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Technical Arsenal
+* CFD/CAE: ANSYS Fluent (Introduction, Physics, Customization, Best Practices)
+* Systems & Control: MATLAB & Simulink 
+* Design: SolidWorks
+* Coding: Python 
+
+Featured Repositories
+* [CFD-Aerodynamics-Portfolio](https://github.com/AntonioSanzDB/CFD-Aerodynamics-Portfolio.git): Certificates and wing simulation project on Ansys Fluent
+* [Vehicle-Dynamics-Portfolio](https://github.com/AntonioSanzDB/Vehicle-Dynamics-Portfolio.git): Certificates and project on MATLAB/Simulink (Suspension kinematics and load transfer analysis).
+* [FSAE-Rulebook-Analysis](link): A repository tracking key technical constraints for the upcoming season.
+
+Connect with me:
+* [LinkedIn](Your-LinkedIn-URL)
+* [Email](asanzdebustamante@gmail.com)
+
