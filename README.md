@@ -5,14 +5,15 @@ Automotive Engineering Student at Politecnico di Torino Aspiring Aerodynamics & 
 
 Technical Arsenal
 * CFD/CAE: ANSYS Fluent (Introduction, Physics, Customization, Best Practices)
-* Systems & Control: MATLAB & Simulink 
 * Design: SolidWorks
+* Systems & Control: MATLAB & Simulink 
 * Coding: Python 
 
 Featured Repositories
-* [CFD-Aerodynamics-Portfolio](https://github.com/AntonioSanzDB/CFD-Aerodynamics-Portfolio.git): Certificates and wing simulation project on Ansys Fluent
-* [Vehicle-Dynamics-Portfolio](https://github.com/AntonioSanzDB/Vehicle-Dynamics-Portfolio.git): Certificates and project on MATLAB/Simulink (Suspension kinematics and load transfer analysis).
-
+* [CFD-Aerodynamics-Courses](https://github.com/AntonioSanzDB/CFD-Aerodynamics-Courses.git): Ansys Fluent Certificates
+* [Vehicle-Dynamics-Courses](https://github.com/AntonioSanzDB/Vehicle-Dynamics-Courses.git): Certificates and project on MATLAB/Simulink (Suspension kinematics and load transfer analysis).
+* [Fundations-Symmetric-Airfoil-Project](https://github.com/AntonioSanzDB/CFD-Foundations-Symmetric-Airfoil.git): Symmetric Airfoil mesh and CFD simulation on Asys Fluent
+* [FSAE-2D-Aerodynamics-Project](https://github.com/AntonioSanzDB/FSAE-2D-CFD-Aerodynamics.git): FSAE wing mesh and CFD simulation on Ansys Fluent
 
 Connect with me:
 * [LinkedIn](https://www.linkedin.com/in/antonio-sanz-de-bustamante-9a075823a/)
