@@ -11,9 +11,10 @@ Technical Arsenal
 
 Featured Repositories
 * [CFD-Aerodynamics-Courses](https://github.com/AntonioSanzDB/CFD-Aerodynamics-Courses.git): Ansys Fluent Certificates
-* [Vehicle-Dynamics-Courses](https://github.com/AntonioSanzDB/Vehicle-Dynamics-Courses.git): Certificates and project on MATLAB/Simulink (Suspension kinematics and load transfer analysis).
+* [Vehicle-Dynamics-Courses](https://github.com/AntonioSanzDB/Vehicle-Dynamics-Courses.git): Matlab and Simulink Certificates
 * [Fundations-Symmetric-Airfoil-Project](https://github.com/AntonioSanzDB/CFD-Foundations-Symmetric-Airfoil.git): Symmetric Airfoil mesh and CFD simulation on Asys Fluent
 * [FSAE-2D-Aerodynamics-Project](https://github.com/AntonioSanzDB/FSAE-2D-CFD-Aerodynamics.git): FSAE wing mesh and CFD simulation on Ansys Fluent
+* [2D-Double-Wishbone-Suspension-kinematics](https://github.com/AntonioSanzDB/2D-Double-Wishbone-Suspension-Kinematics.git): Study of kinematics of double wishbone suspension on solidworks
 
 Connect with me:
 * [LinkedIn](https://www.linkedin.com/in/antonio-sanz-de-bustamante-9a075823a/)
